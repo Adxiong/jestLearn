@@ -1,3 +1,7 @@
 node_modules
 .DS_Store
+<<<<<<< HEAD
 */coverage
+=======
+*/coveage
+>>>>>>> 74ec47ab34dcd9f5b910db1736f8b3e88fedc06f

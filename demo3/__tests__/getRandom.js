@@ -4,7 +4,11 @@
  * @Author: Adxiong
  * @Date: 2022-05-25 16:52:54
  * @LastEditors: Adxiong
+<<<<<<< HEAD
  * @LastEditTime: 2022-05-25 19:22:14
+=======
+ * @LastEditTime: 2022-05-25 17:45:10
+>>>>>>> 74ec47ab34dcd9f5b910db1736f8b3e88fedc06f
  */
 const getRandom = require("../getRandom")
 
@@ -29,7 +33,6 @@ test("getRandom function result equal 1", () => {
   const res = getRandom()
   expect(res).toBe(1)
 })
-
 
 test("getRandom function result equal 10", () => {
   mockRandom.mockReturnValue(1)

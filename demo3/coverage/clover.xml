@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <coverage generated="1653486948424" clover="3.2.0">
   <project timestamp="1653486948424" name="All files">
+=======
+<coverage generated="1653472279337" clover="3.2.0">
+  <project timestamp="1653472279337" name="All files">
+>>>>>>> 74ec47ab34dcd9f5b910db1736f8b3e88fedc06f
     <metrics statements="11" coveredstatements="10" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4" elements="17" coveredelements="16" complexity="0" loc="11" ncloc="11" packages="1" files="2" classes="2"/>
     <file name="getRandom.js" path="/Users/adxiong/Documents/github/jestLearn/demo3/getRandom.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
