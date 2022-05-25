@@ -1,15 +1,12 @@
 {
-  "name": "demo3",
+  "name": "demo2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "callback.js",
   "scripts": {
     "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@types/jest": "^27.5.1"
-  }
+  "license": "ISC"
 }
