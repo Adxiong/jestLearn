@@ -5,7 +5,7 @@
  * @Date: 2022-05-25 16:52:54
  * @LastEditors: Adxiong
 <<<<<<< HEAD
- * @LastEditTime: 2022-05-25 19:22:14
+ * @LastEditTime: 2022-05-25 22:43:59
 =======
  * @LastEditTime: 2022-05-25 17:45:10
 >>>>>>> 74ec47ab34dcd9f5b910db1736f8b3e88fedc06f
@@ -39,7 +39,6 @@ test("getRandom function result equal 10", () => {
   const res = getRandom()
   expect(res).toBe(10)
 })
-
 
 test("getRandom function result greater  than 0 or equal ", () => {
   const res = getRandom()
