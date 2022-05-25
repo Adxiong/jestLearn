@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Baidulink component render content test 1`] = `
+<div>
+  <a
+    href="https://www.baidu.com"
+  >
+    百度一下
+  </a>
+</div>
+`;

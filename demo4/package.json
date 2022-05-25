@@ -1,15 +1,12 @@
 {
-  "name": "jestlearn",
+  "name": "demo4",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^28.1.0"
-  }
+  "description": ""
 }
